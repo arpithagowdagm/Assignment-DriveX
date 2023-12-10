@@ -1,0 +1,93 @@
+{
+  
+  "name": "drivex",
+  
+  "version": "1.0.0",
+  
+  "description": "assignment from drivex",
+  
+  "scripts": {
+  
+    
+  "start": "parcel index.html",
+  
+    
+  "build": "parcel build index.html",
+  
+    
+  "test": "jest"
+  
+  },
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/arpithagowdagm/Assignment-DriveX.git"
+  
+  },
+  
+  "keywords": [
+  
+    
+  "MF"
+  
+  ],
+  
+  "author": "Arpitha GM",
+  
+  "license": "ISC",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/arpithagowdagm/Assignment-DriveX/issues"
+  
+  },
+  
+  "homepage": "https://github.com/arpithagowdagm/Assignment-DriveX#readme",
+  
+  "dependencies": {
+  
+    
+  "@emotion/react": "^11.11.1",
+  
+    
+  "@emotion/styled": "^11.11.0",
+  
+    
+  "@mui/material": "^5.14.20",
+  
+    
+  "parcel": "^2.10.3",
+  
+    
+  "react": "^18.2.0",
+  
+    
+  "react-dom": "^18.2.0",
+  
+    
+  "react-router-dom": "^6.20.1",
+  
+    
+  "react-window": "^1.8.10"
+  
+  },
+  
+  "browserslist": [
+  
+    
+  "last 50 version"
+  
+  ],
+  
+  "devDependencies": {
+  
+    
+  "process": "^0.11.10"
+  
+  }
+}
